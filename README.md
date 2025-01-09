@@ -1,4 +1,5 @@
-# Experimenting with ML, AI & DL Techniques for Promotion and Price Prediction
+# Experimenting with ML, AI & DL Techniques for Promotion and Pricing strategy
+
 
 Alternate key words : Promotion Price Sensitivity
 
